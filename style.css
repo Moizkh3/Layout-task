@@ -112,3 +112,18 @@
     background-color: #f3f3f3;
   }
   
+  @media (max-width: 480px) {
+    .title {
+      font-size: 30px;
+    }
+  
+    .subtitle {
+      font-size: 15px;
+    }
+  
+    .btn {
+      font-size: 14px;
+      margin-top: 20px;
+      padding: 10px 18px;
+    }
+  }
